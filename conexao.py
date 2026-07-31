@@ -3,4 +3,4 @@ def conectar (host, porta=5432, timeout=10):
 
 conectar("localhost")
 conectar("localhos", 3306)
-conectar ("localhost", timeout=30)
+conectar ("localhost", timeout=40)
